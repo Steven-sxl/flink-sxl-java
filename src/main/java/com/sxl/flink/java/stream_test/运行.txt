@@ -1,0 +1,2 @@
+在linux/unix 终端执行：
+    nc -lk 9999
