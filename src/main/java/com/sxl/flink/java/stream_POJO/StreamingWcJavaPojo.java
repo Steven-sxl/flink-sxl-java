@@ -35,7 +35,6 @@ public class StreamingWcJavaPojo {
 //                }
 //            }
 //        })
-        
         //3.2指定转换函数方式实现flatmap
 //        data.flatMap(new MyFlatMap())
 
